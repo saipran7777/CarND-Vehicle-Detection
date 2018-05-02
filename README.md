@@ -10,10 +10,10 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # "Image References"
-[image1]: /output_images/car.png	""Car""
-[image2]: /output_images/not_car.png	""Not Car""
+[image1]: /output_images/car.png	"Car"
+[image2]: /output_images/not_car.png	"Not Car"
 [image3]: /output_images/hog.png
-[image4]: /output_images/scale.png	""Different scales (2.5,2,1.5,1)""
+[image4]: /output_images/scale.png	"Different scales (1.5,1)"
 [image5]: /output_images/nobox.png
 [image6]: /output_images/index.png
 [image7]: /output_images/heat_final.png
